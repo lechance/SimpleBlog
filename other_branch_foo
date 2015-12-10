@@ -1,0 +1,7 @@
+other_branch_foo file
+<code>
+public void print(String name){
+  System.out.println(name);
+  }
+</code>
+---Test for markdown---
