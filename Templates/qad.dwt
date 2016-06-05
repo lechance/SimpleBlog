@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>我的个人博客</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../style/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="950" border="0" cellspacing="0" cellpadding="0">
+  <tr align="left" valign="top">
+    <td width="316" height="661" class="page"><img src="../images/left.jpg" width="316" height="661" border="0" usemap="#Map" /></td>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="634" height="145" align="left" valign="middle"><img src="../images/top.jpg" width="634" height="145" /></td>
+      </tr>
+      <!-- TemplateBeginEditable name="main" -->
+      <tr>
+        <td height="65" align="left" valign="middle" class="tabebg">&nbsp;</td>
+      </tr>
+      <tr>
+        <td height="451" align="left" valign="middle" class="tabebg">&nbsp;</td>
+      </tr>
+      <!-- TemplateEndEditable -->
+    </table></td>
+  </tr>
+  <tr class="page">
+    <td height="0" colspan="2" class="tabebg"><span class="page">版权所有 翻版必究</span></td>
+  </tr>
+</table>
+
+<map name="Map" id="Map"><area shape="circle" coords="138,384,36" href="guest.html" alt="给我留言" /><area shape="circle" coords="55,320,36" href="flash.html" alt="我的动漫" /><area shape="circle" coords="161,270,36" href="photo.html" alt="我的相册" /><area shape="circle" coords="56,208,36" href="index.html" alt="我的资料" />
+  <area shape="circle" coords="157,147,36" href="index.html" alt="我的首页" />
+</map>
+</body>
+</html>

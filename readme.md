@@ -1,6 +1,5 @@
-## foo
+## OverView
 
-This project for test git command, please ommit this.
+This project is the simple blog html template, just for fun.
 
-<iframe width="100%" height="70%" src="https://vimeo.com/82090131" frameborder="0" allowfullscreen></iframe>
-https://vimeo.com/82090131
+;)
